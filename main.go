@@ -1,6 +1,6 @@
 package main
 
-import bot "github.com/rhaigtz/go-discord-bot/bot"
+import bot "github.com/Rhaigtz/godiscordbot/bot"
 
 func main() {
 	bot.BotToken = "DISCORD TOKEN ID"
